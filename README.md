@@ -46,7 +46,7 @@ nail-segmentation-unet/
 
 ## 🖼️ Ví dụ kết quả
 
-| Ảnh gốc | Kết quả phân đoạn |
+Ảnh gốc
 <img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/80936cc1-5d4c-4b41-a9db-c7f6bf0178d1" /> 
 
 ---
