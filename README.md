@@ -47,9 +47,10 @@ nail-segmentation-unet/
 ## 🖼️ Ví dụ kết quả
 
 | Ảnh gốc | Kết quả phân đoạn |
-
-<img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/2b0802d1-a0d4-4aa5-8f70-7bd3c2fa77a1" />
-<img width="986" height="757" alt="image" src="https://github.com/user-attachments/assets/2e717219-0f89-4398-8228-56258fb3cee9" />
+|--------|--------------------|
+| ![](<img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/80936cc1-5d4c-4b41-a9db-c7f6bf0178d1" />
+) | ![](<img width="986" height="757" alt="image" src="https://github.com/user-attachments/assets/52fa44f3-852d-43d7-9c04-f81c32f97095" />
+) |
  
 
 ---
