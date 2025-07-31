@@ -44,12 +44,6 @@ nail-segmentation-unet/
 
 ---
 
-## 🖼️ Ví dụ kết quả
-
-Ảnh gốc
-<img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/80936cc1-5d4c-4b41-a9db-c7f6bf0178d1" /> 
-
----
 
 ## 🚀 Hướng dẫn chạy
 
@@ -66,6 +60,9 @@ Tải ảnh và nhãn (mask) vào thư mục `data/train`, `data/val` theo đị
 
 * Ảnh: `.jpg` hoặc `.png`
 * Mặt nạ: ảnh trắng đen, cùng kích thước
+
+<img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/08c93efe-e57c-4d48-a9ae-b0421d7ad955" />
+
 
 ### 3. Huấn luyện mô hình
 
