@@ -1,7 +1,3 @@
-Dưới đây là nội dung `README.md` hoàn chỉnh **bằng tiếng Việt** cho repository GitHub: **`nail-segmentation-unet`**, mô tả dự án segmentation móng tay bằng mô hình U-Net sử dụng PyTorch:
-
----
-
 ```markdown
 # Nail Segmentation with U-Net using PyTorch
 
@@ -53,7 +49,7 @@ nail-segmentation-unet/
 | Ảnh gốc | Kết quả phân đoạn |
 
 | <img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/2b0802d1-a0d4-4aa5-8f70-7bd3c2fa77a1" />
-| <img width="986" height="757" alt="image" src="https://github.com/user-attachments/assets/2e717219-0f89-4398-8228-56258fb3cee9" />
+<img width="986" height="757" alt="image" src="https://github.com/user-attachments/assets/2e717219-0f89-4398-8228-56258fb3cee9" />|
  
 
 ---
