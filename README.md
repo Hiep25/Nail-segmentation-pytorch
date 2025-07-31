@@ -82,12 +82,10 @@ python train.py
 
 ### 4. Dự đoán trên ảnh mới
 
-```bash
+
 <img width="993" height="339" alt="image" src="https://github.com/user-attachments/assets/5da84c46-8b7c-438c-9c80-f75df77285eb" />
 
-```
 
----
 
 ## 🛠️ Thư viện sử dụng
 
