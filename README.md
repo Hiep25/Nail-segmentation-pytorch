@@ -1,4 +1,3 @@
-```markdown
  Nail Segmentation with U-Net using PyTorch
 
  📌 Mô tả
@@ -40,7 +39,7 @@ nail-segmentation-unet/
 ├── requirements.txt        # Danh sách thư viện cần cài
 └── README.md               # Tài liệu mô tả dự án
 
-````
+
 
 ---
 
