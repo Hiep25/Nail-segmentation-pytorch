@@ -1,13 +1,13 @@
 ```markdown
-# Nail Segmentation with U-Net using PyTorch
+ Nail Segmentation with U-Net using PyTorch
 
-## 📌 Mô tả
+ 📌 Mô tả
 
 Dự án này triển khai mô hình **U-Net** sử dụng thư viện **PyTorch** nhằm **phân đoạn vùng móng tay (nail segmentation)** trên ảnh đầu vào. Mục tiêu là tạo ra mặt nạ phân đoạn chính xác, hỗ trợ các ứng dụng như làm đẹp, chăm sóc móng, hoặc tiền xử lý trong các hệ thống nhận diện tay.
 
 ---
 
-## 🧠 Kiến thức sử dụng
+ 🧠 Kiến thức sử dụng
 
 - Deep Learning
 - Semantic Segmentation
@@ -18,7 +18,7 @@ Dự án này triển khai mô hình **U-Net** sử dụng thư viện **PyTorch
 
 ---
 
-## 📁 Cấu trúc thư mục
+ 📁 Cấu trúc thư mục
 
 ```
 
@@ -45,16 +45,16 @@ nail-segmentation-unet/
 ---
 
 
-## 🚀 Hướng dẫn chạy
+ 🚀 Hướng dẫn chạy
 
-### 1. Cài thư viện cần thiết
+ 1. Cài thư viện cần thiết
 
 Tạo virtual environment và cài đặt:
 ```bash
 pip install -r requirements.txt
 ````
 
-### 2. Chuẩn bị dữ liệu
+ 2. Chuẩn bị dữ liệu
 
 Tải ảnh và nhãn (mask) vào thư mục `data/train`, `data/val` theo định dạng:
 
@@ -64,20 +64,20 @@ Tải ảnh và nhãn (mask) vào thư mục `data/train`, `data/val` theo đị
 <img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/08c93efe-e57c-4d48-a9ae-b0421d7ad955" />
 
 
-### 3. Huấn luyện mô hình
+ 3. Huấn luyện mô hình
 
 ```bash
 python train.py
 ```
 
-### 4. Dự đoán trên ảnh mới
+ 4. Dự đoán trên ảnh mới
 
 
 <img width="993" height="339" alt="image" src="https://github.com/user-attachments/assets/5da84c46-8b7c-438c-9c80-f75df77285eb" />
 
 
 
-## 🛠️ Thư viện sử dụng
+ 🛠️ Thư viện sử dụng
 
 * `torch`
 * `torchvision`
@@ -88,7 +88,7 @@ python train.py
 
 ---
 
-## 📈 Kết quả huấn luyện
+ 📈 Kết quả huấn luyện
 
 * Độ chính xác (IoU): \~**XX%**
 * Loss giảm đều qua các epoch
@@ -98,7 +98,7 @@ python train.py
 
 ---
 
-## 📚 Tài liệu tham khảo
+ 📚 Tài liệu tham khảo
 
 * Paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 * PyTorch Tutorials: [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
@@ -106,7 +106,7 @@ python train.py
 
 ---
 
-## 📩 Liên hệ
+ 📩 Liên hệ
 
 > Nếu bạn thấy dự án hữu ích, hãy star ⭐ repo này nhé!
 > Mọi góp ý hoặc thắc mắc(hiepbt17@gmail.com).
