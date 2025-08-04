@@ -49,9 +49,8 @@ nail-segmentation-unet/
  1. Cài thư viện cần thiết
 
 Tạo virtual environment và cài đặt:
-```bash
+
 pip install -r requirements.txt
-````
 
  2. Chuẩn bị dữ liệu
 
@@ -65,9 +64,7 @@ Tải ảnh và nhãn (mask) vào thư mục `data/train`, `data/val` theo đị
 
  3. Huấn luyện mô hình
 
-```bash
 python train.py
-```
 
  4. Dự đoán trên ảnh mới
 
